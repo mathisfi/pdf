@@ -6,6 +6,6 @@
     <title>Lien vers PDF</title>
 </head>
 <body>
-    <a href="nom_du_fichier.pdf" target="_blank">Ouvrir le PDF</a>
+    <a href="CV.pdf" target="_blank">Ouvrir le PDF</a>
 </body>
 </html>
